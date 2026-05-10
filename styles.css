@@ -1,0 +1,52 @@
+.Skills-row{
+  display:flex;
+  gap: 200px
+}
+.ost p{
+  text-align:center;
+    color: brown
+}
+header h1{
+    text-align:center;
+    color: aqua
+}
+.nav{
+  display: flex;
+    height:25px;
+    background-color: black ;
+   align-items: center ;
+   gap: 10px
+}
+nav a{
+    color: white ;
+  text-decoration: none
+}
+#me h2{
+  text-align: center
+}
+#me p{
+  text-align: center;
+  width:300px ;
+}
+.me{
+  display: flex ;
+  align-items: center
+}
+h2{
+  text-align: center
+}
+.ost h4{
+  text-align: center
+}
+.skills{
+  display: flex ;
+  gap: 150px
+}
+.about{
+  display:flex ;
+  align-items:flex-start
+  
+}
+div ul{
+  font-size: 20px 
+}
